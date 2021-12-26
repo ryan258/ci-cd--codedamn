@@ -5,5 +5,5 @@ jobs: # to run on push
     runs-on: ubuntu-latest
     steps: #steps will happen one after another
       - uses: actions/checkout@v2 # use a prebuilt action from Github
-      - run: tree " # basically the bash command
+      - run: tree # basically the bash command
 
