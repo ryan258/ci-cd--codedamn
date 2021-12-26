@@ -8,5 +8,5 @@ jobs: # to run on push
       - uses: actions/setup-node@v2 # use a prebuilt action from Github set up node in the env
         with:
           node-version: '14.17.0' # set up specific version of node
-      - run: tree # basically the bash command we're reading the cloned files from
+      - run: node -v # basically the bash command we're reading the cloned files from
 
