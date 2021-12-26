@@ -1,3 +1,5 @@
+[![My First Github Action](https://github.com/ryan258/ci-cd--codedamn/actions/workflows/test.yml/badge.svg)](https://github.com/ryan258/ci-cd--codedamn/actions/workflows/test.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
